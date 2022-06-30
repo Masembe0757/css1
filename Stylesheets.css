@@ -1,0 +1,48 @@
+.body{
+	margin: 0;
+}
+.div1{
+	background-color: #CED89E;
+	height: 300px;
+	width: 450px;
+	position: absolute;
+}
+.div2{
+	background-color: #243A73;
+	height: 300px;
+	width: 450px;
+	position: relative;
+	left: 900px;
+
+}
+.div3{
+	background-color: #3f4E4f;
+	height: 400px;
+	width: 450px;
+	position: relative;
+	left: 450px;
+}
+.div4{
+	background-color: lightskyblue;
+	height: 400px;
+	width: 450px;
+	position: absolute;
+}
+.div5{
+	background-color: #ffcf79;
+	height: 400px;
+	width: 450px;
+	position: relative;
+	left: 900px;
+	
+}
+#img{
+	height: 300px;
+	width: 450px;
+}
+#ol{
+	list-style: urdu;
+}
+div:hover{
+	color: indianred;
+}
